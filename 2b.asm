@@ -11,6 +11,7 @@
 	mov	byte[207h],	44d
 	mov	byte[208h],	40d
 	mov	byte[209h],	30d
+	
 	mov 	cx,	10d
 	mov	di,	200h
 suma:	mov	bl,	[di]
